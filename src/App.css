@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Neucha&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Alegreya&display=swap");
 .App {
   width: 100vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #2f74c0;
-  font-family: "Neucha", cursive;
+  background-color: #49a773;
+  font-family: "Alegreya", serif;
 }
 
 .heading {
